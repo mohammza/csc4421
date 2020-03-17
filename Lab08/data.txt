@@ -1,0 +1,31 @@
+              total        used        free      shared     buffers       cache   available
+Mem:        8058552     2125344     1351996      559684      376900     4204312     5066708
+Swap:       5107708           0     5107708
+Running ATOM
+              total        used        free      shared     buffers       cache   available
+Mem:        8058552     2456560      593932      552756      447396     4560664     4743428
+Swap:       5107708           0     5107708
+Running 3 Atom
+              total        used        free      shared     buffers       cache   available
+Mem:        8058552     2896548      284744      571948      431692     4445568     4279144
+Swap:       5107708       62988     5044720
+Running 5 Atom
+              total        used        free      shared     buffers       cache   available
+Mem:        8058552     2982004      226976      575408      431856     4417716     4196364
+Swap:       5107708       85772     5021936
+Added Gazebo
+              total        used        free      shared     buffers       cache   available
+Mem:        8058552     3054712      417420      699120      432396     4154024     3988960
+Swap:       5107708      131852     4975856
+Added RStudio
+              total        used        free      shared     buffers       cache   available
+Mem:        8058552     3492820      224796      715180      433688     3907248     3542976
+Swap:       5107708      198280     4909428
+Closed RStudio. Started Word and Ubuntu Software
+              total        used        free      shared     buffers       cache   available
+Mem:        8058552     3236520      442636      758552      434764     3944632     3739528
+Swap:       5107708      184832     4922876
+Opened 3 more Word
+              total        used        free      shared     buffers       cache   available
+Mem:        8058552     3528108      345456      699352      434916     3750072     3403328
+Swap:       5107708      438528     4669180

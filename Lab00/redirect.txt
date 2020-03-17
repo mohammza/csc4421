@@ -1,0 +1,69 @@
+something
+    1  ls
+    2  lscpu
+    3  lscpu | more
+    4  lspci | more
+    5  uname -a
+    6  cat /etc/issue
+    7  top
+    8  cls
+    9  clear
+   10  ls -l
+   11  cd /Desktop
+   12  cd  Desktop
+   13  ls 
+   14  ls -l
+   15  cd .
+   16  cd ./
+   17  cd ../
+   18  ls
+   19  ls -l
+   20  cd etc
+   21  pwd
+   22  cd ../
+   23  ls -l
+   24  ls
+   25  cd ../
+   26  ls -l
+   27  cd home
+   28  cd mint
+   29  cd home
+   30  ls 0l
+   31  ls -l
+   32  clear
+   33  man
+   34  man diff
+   35  man grep
+   36  clea
+   37  rclear
+   38  clear
+   39  emacs
+   40  sudo apt install emacs25
+   41  emacs
+   42  clear
+   43  emacs
+   44  clear
+   45  ls -l
+   46  cd desktop
+   47  cd /Desktop
+   48  cd Desktop
+   49  ls -l
+   50  mdir csc4421
+   51  mkdir csc4421
+   52  mkdir csc4421/Lab00
+   53  cd csc4421/Lab00
+   54  whoami
+   55  who
+   56  gedit
+   57  sudo apt install gedit
+   58  gedit
+   59  clear
+   60  cat testfile.txt
+   61  clear
+   62  gedit
+   63  cat testfile.txt
+   64  less testfile.txt
+   65  echo something
+   66  echo something > redirect.txt
+   67  history
+   68  history >> redirect.txt

@@ -1,0 +1,7 @@
+Memory Used: As the number of processes increase the memory used increases as well. This makes sense intuitively since more processes running means memory being utilized.
+
+Memory buffered: From the data that I have, it seems to be that the amount of memory buffered stays constant.
+
+Memory cached: As the number of processes increase the memory cached decreases.
+
+Swap Used: The amount of swap memory used increases as the number of processes increases.
